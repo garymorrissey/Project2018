@@ -20,6 +20,10 @@ Fishers Iris Data Set is widely believed to be a great starting point into the w
 - It only has 4 attributes and 150 rows, meaning the data is small but not trivial
 - The data is real data, but of good quality
 - Discriminating between three species of Iris from their measurements is simple but challenging
-- Attributes are numeric so you need to learn how to loand and handle the data
+- Attributes are numeric so you need to learn how to load and and handle the data
 
-Data analysis is clearly a nuanced discipline and quite often the first questions asked is where to start? With investigation of a data set, it's clearly important to  
+## Investigation of the Data Set and Python
+
+The purpose of investigating a data set is to use summary statistics and visualisations to better understand the data presented, to find clues about the data and its quality and to formulate assumptions of our analysis. According to [datascienceguide.github](https://datascienceguide.github.io/exploratory-data-analysis) the goal should be to create a figure which anyone can look at in a few seconds and understand what is going on. 
+
+In this  
