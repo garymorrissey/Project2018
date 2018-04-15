@@ -28,4 +28,10 @@ Fishers Iris Data Set is widely believed to be a great starting point into the w
 
 The purpose of investigating a data set is to use summary statistics and visualisations to better understand the data presented, to find clues about the data and its quality and to formulate assumptions of our analysis. According to [datascienceguide.github](https://datascienceguide.github.io/exploratory-data-analysis) the goal should be to create a figure which anyone can look at in a few seconds and understand what is going on. 
 
-The Irish Flower Data Set is compiled is an easy to read    
+The Irish Flower Data Set is compiled is an easy to read and from the data we aim to calculate the following:
+
+- Mean
+- Mode
+- Median
+- Range
+- Maximum and Minimum values of each column
