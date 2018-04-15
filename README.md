@@ -11,7 +11,9 @@ This work stems from his collaboration with [Edgar Anderson](https://en.wikipedi
 - Petal length
 - Petal width
 
-On the back of their data, Fisher developed a linear discriminant model to distinguish the species from each other. This function analysis is now widely used in statistics, pattern recognition and machine learning to find a linear combination of features that essentially seperates classes of objects or events
+On the back of their data, Fisher developed a linear discriminant model to distinguish the species from each other. This function analysis is now widely used in statistics, pattern recognition and machine learning to find a linear combination of features that essentially seperates classes of objects or events. According to Patrick Hoey is his paper on Statistical Analysis of the Iris Flower Dataset; 
+
+> The goal of a discriminant analysis is to produce a simple function that, given the four measurements, will classify a flower correctly. 
 
 ## Data Analysis and the Iris Data Set
 
@@ -26,4 +28,4 @@ Fishers Iris Data Set is widely believed to be a great starting point into the w
 
 The purpose of investigating a data set is to use summary statistics and visualisations to better understand the data presented, to find clues about the data and its quality and to formulate assumptions of our analysis. According to [datascienceguide.github](https://datascienceguide.github.io/exploratory-data-analysis) the goal should be to create a figure which anyone can look at in a few seconds and understand what is going on. 
 
-In this  
+The Irish Flower Data Set is compiled is an easy to read    
