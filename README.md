@@ -14,3 +14,12 @@ This work stems from his collaboration with [Edgar Anderson](https://en.wikipedi
 On the back of their data, Fisher developed a linear discriminant model to distinguish the species from each other. This function analysis is now widely used in statistics, pattern recognition and machine learning to find a linear combination of features that essentially seperates classes of objects or events
 
 ## Data Analysis and the Iris Data Set
+
+Fishers Iris Data Set is widely believed to be a great starting point into the world of Analysis and Machine Learning. According to [machinelearningmastery.com](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/) there are a number of reasons for this:
+
+- It only has 4 attributes and 150 rows, meaning the data is small but not trivial
+- The data is real data, but of good quality
+- Discriminating between three species of Iris from their measurements is simple but challenging
+- Attributes are numeric so you need to learn how to loand and handle the data
+
+Data analysis is clearly a nuanced discipline and quite often the first questions asked is where to start? With investigation of a data set, it's clearly important to  
