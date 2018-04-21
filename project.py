@@ -17,6 +17,6 @@ print(meanfirst_column) # Print the average of column 1 - Petal Length
 
 # Petal Width
 data = numpy.genfromtxt('Data/iris.csv', delimiter=',')
-second_column = first_column = data[:,1]
+second_column = first_column = data[:,1] # Generating an array for column 2
 meansecond_column = numpy.mean(data[:,1])
-print(meansecond_column)
+print(meansecond_column) # Print the average of column 1 - Petal Width
