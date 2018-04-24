@@ -1,5 +1,6 @@
 # Gary Morrissey, 20-April-2018
 # Analysis of the Iris Flower Data Set
+# Adapted from http://archive.ics.uci.edu/ml/machine-learning-databases/iris/ 
 
 print("Petal Length", "Petal Width", "Sepal Length", "Sepal Width")  # Column headings
 
