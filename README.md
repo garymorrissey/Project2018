@@ -41,7 +41,9 @@ The Irish Flower Data Set is compiled is an easy to read and from the data we ai
 Calculation|Column|Result|Comment
 ------------|------------|------------|------------
 **Mean**|**Petal Length**|
-        |**Petal Width**|
+||**Petal Width**|
+||**Sepal Length**|
+||**Sepal Width**|
 **Mode**
 **Median**
 **Range**
