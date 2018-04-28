@@ -50,5 +50,8 @@ Calculation|Column|Result(cm)|Comment
 ||**Sepal Width**|**0.2**|
 **Median**
 **Range**
-**Maximum Value of each column**
+**Maximum Value of each column**|**Petal Length**|**7.9**|
+||**Petal Width**|**4.4**|
+||**Sepal Length**|**6.9**|
+||**Sepal Width**|**2.5**|
 **Minimum value of each column**
