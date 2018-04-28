@@ -35,3 +35,14 @@ The Irish Flower Data Set is compiled is an easy to read and from the data we ai
 - Median
 - Range
 - Maximum and Minimum values of each column
+
+## Investigation Results
+
+Calculation|Result|Comment
+------------|------------|------------
+**Mean**
+**Mode**
+**Median**
+**Range**
+**Maximum Value of each column**
+**Minimum value of each column**
