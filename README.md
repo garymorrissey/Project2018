@@ -39,8 +39,8 @@ The Irish Flower Data Set is compiled is an easy to read and from the data we ai
 
 ## Investigation Results
 
-Calculation|Column|Result|Comment
-------------|------------|------------|------------
+Calculation|Column|Result|
+------------|------------|------------|
 **Mean**|**Petal Length**|**5.84333333333cm**|
 ||**Petal Width**|**3.054cm**|
 ||**Sepal Length**|**3.75866666667cm**|
