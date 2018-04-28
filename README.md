@@ -67,4 +67,5 @@ Calculation|Column|Result|
 [3] https://stats.stackexchange.com/questions/74776/what-aspects-of-the-iris-data-set-make-it-so-successful-as-an-example-teaching
 [4] https://www.techopedia.com/definition/32880/iris-flower-data-set
 [5] http://patrickhoey.com/downloads/Computer_Science/0_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf
+[6] https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
 
