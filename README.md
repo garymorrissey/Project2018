@@ -34,7 +34,8 @@ The Irish Flower Data Set is compiled is an easy to read and from the data we ai
 - Mode
 - Median
 - Range
-- Maximum and Minimum values of each column
+- Maximum value of each column 
+- Minimum value of each column
 
 ## Investigation Results
 
@@ -48,8 +49,8 @@ Calculation|Column|Result(cm)|Comment
 ||**Petal Width**|**3.0**|
 ||**Sepal Length**|**1.5**|
 ||**Sepal Width**|**0.2**|
-**Median**
-**Range**
+**Median**|
+**Range**|
 **Maximum Value of each column**|**Petal Length**|**7.9**|
 ||**Petal Width**|**4.4**|
 ||**Sepal Length**|**6.9**|
