@@ -54,4 +54,7 @@ Calculation|Column|Result(cm)|Comment
 ||**Petal Width**|**4.4**|
 ||**Sepal Length**|**6.9**|
 ||**Sepal Width**|**2.5**|
-**Minimum value of each column**
+**Minimum value of each column**|**Petal Length**|**0.1**|
+||**Petal Width**|**2.0**|
+||**Sepal Length**|**1.0**|
+||**Sepal Width**|**0.1**|
