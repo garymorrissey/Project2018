@@ -6,10 +6,10 @@ The Iris flower data set is a specific set of information which was compiled by 
 
 This work stems from his collaboration with [Edgar Anderson](https://en.wikipedia.org/wiki/Edgar_Anderson), an American botanist, and the compilation of a set of data which aims to demonstrate statistical methods of classification. The data set consists of 50 samples from each of three species or Iris flower - Iris Setosa, Iris Virginica and Iris Veriscolor. For the data set, four specific features were measured from each sample;
 
-- Sepal length
-- Sepal width
 - Petal length
 - Petal width
+- Sepal length
+- Sepal width
 
 On the back of their data, Fisher developed a linear discriminant model to distinguish the species from each other. This function analysis is now widely used in statistics, pattern recognition and machine learning to find a linear combination of features that essentially seperates classes of objects or events. According to Patrick Hoey is his paper on Statistical Analysis of the Iris Flower Dataset; 
 
@@ -51,7 +51,7 @@ Calculation|Column|Result|
 ||**Sepal Width**|**0.2cm**|
 **Median**|
 **Range**|
-**Maximum Value of each column**|**Petal Length**|**7.9cm**|
+**Maximum value of each column**|**Petal Length**|**7.9cm**|
 ||**Petal Width**|**4.4cm**|
 ||**Sepal Length**|**6.9cm**|
 ||**Sepal Width**|**2.5cm**|
@@ -59,3 +59,12 @@ Calculation|Column|Result|
 ||**Petal Width**|**2.0cm**|
 ||**Sepal Length**|**1.0cm**|
 ||**Sepal Width**|**0.1cm**|
+
+
+## References
+[1] https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris
+[2] https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+[3] https://stats.stackexchange.com/questions/74776/what-aspects-of-the-iris-data-set-make-it-so-successful-as-an-example-teaching
+[4] https://www.techopedia.com/definition/32880/iris-flower-data-set
+[5] http://patrickhoey.com/downloads/Computer_Science/0_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf
+
