@@ -37,7 +37,7 @@ The Iris Flower Data Set is compiled is an easy to read and from the data we aim
 - Maximum value of each column 
 - Minimum value of each column
 
-In order to investigate the data set, we are using the python programming language and will run a number of different algorithms to claculate the results outlined above.   
+In order to investigate the data set, we are using the python programming language and will run a number of different algorithms to claculate the results outlined above.  
 
 ## Investigation Results
 
