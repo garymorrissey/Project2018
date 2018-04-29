@@ -41,26 +41,26 @@ In order to investigate the data set, we are using the python programming langua
 
 ## Investigation Results
 
-Calculation|Column|Result|
+Calculation|Column|Results(cm)|
 ------------|------------|------------|
-**Mean**|**Petal Length**|**5.84333333333cm**|
-||**Petal Width**|**3.054cm**|
-||**Sepal Length**|**3.75866666667cm**|
-||**Sepal Width**|**1.19866666667cm**|
-**Mode**|**Petal Length**|**5.0cm**|
-||**Petal Width**|**3.0cm**|
-||**Sepal Length**|**1.5cm**|
-||**Sepal Width**|**0.2cm**|
+**Mean**|**Petal Length**|**5.84333333333**|
+||**Petal Width**|**3.054**|
+||**Sepal Length**|**3.75866666667**|
+||**Sepal Width**|**1.19866666667**|
+**Mode**|**Petal Length**|**5.0**|
+||**Petal Width**|**3.0**|
+||**Sepal Length**|**1.5**|
+||**Sepal Width**|**0.2**|
 **Median**|
 **Range**|
-**Maximum value of each column**|**Petal Length**|**7.9cm**|
-||**Petal Width**|**4.4cm**|
-||**Sepal Length**|**6.9cm**|
-||**Sepal Width**|**2.5cm**|
-**Minimum value of each column**|**Petal Length**|**0.1cm**|
-||**Petal Width**|**2.0cm**|
-||**Sepal Length**|**1.0cm**|
-||**Sepal Width**|**0.1cm**|
+**Maximum value of each column**|**Petal Length**|**7.9**|
+||**Petal Width**|**4.4**|
+||**Sepal Length**|**6.9**|
+||**Sepal Width**|**2.5**|
+**Minimum value of each column**|**Petal Length**|**0.1**|
+||**Petal Width**|**2.0**|
+||**Sepal Length**|**1.0**|
+||**Sepal Width**|**0.1**|
 
 
 ## References
